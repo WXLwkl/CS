@@ -21,8 +21,15 @@
     NSLog(@"-- dev1 --");
     
     
-    
+
     NSLog(@"hello world!");
+    NSLog(@"xxx  dev1  xxx");
+    
+    
+    
+    for (int i = 0; i < 5; i++) {
+        NSLog(@"---%d", i);
+    }
 }
 
 
