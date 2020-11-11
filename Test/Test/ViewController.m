@@ -27,6 +27,11 @@
     
 }
 
+- (void)viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+    
+    NSLog(@"=========");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
