@@ -31,6 +31,8 @@
     [super viewWillAppear:animated];
     
     NSLog(@"=========");
+    
+    NSLog(@"2019-06-04 13:40:00");
 }
 
 - (void)didReceiveMemoryWarning {
